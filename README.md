@@ -4,6 +4,8 @@
 
 Ex-founder with 16+ years building products. After scaling and selling my business (exit 2025), I now focus on roles where impact scales: turning ambiguous business goals into production-ready AI solutions.
 
+[About me](https://santifer.io/about) · [Wikidata](https://www.wikidata.org/wiki/Q138710224)
+
 ## 🚀 What I Do
 
 - **AI Product Discovery** → PRDs, roadmaps, and prioritization for LLM-powered products
@@ -16,6 +18,15 @@ Built **"Jacobo"**, an omnichannel AI agent achieving **~90% self-service rate**
 - Voice (ElevenLabs) + WhatsApp (n8n/WATI) + Aircall PBX
 - Sub-agent orchestration via tool calling
 - HITL handoff with full context
+
+## 📝 Published Case Studies
+
+- [The Self-Healing Chatbot](https://santifer.io/self-healing-chatbot) — LLMOps in production: 71 evals, 6-layer defense, agentic observability, voice mode
+- [AI Agent Jacobo](https://santifer.io/ai-agent-jacobo) — Omnichannel multi-agent AI achieving ~90% self-service
+- [Career-Ops](https://santifer.io/career-ops-system) — Multi-agent job search system: 631 evaluations, 354 PDFs, HITL design
+- [Business OS](https://santifer.io/business-os-for-airtable) — Custom ERP with 12 Airtable bases, 2100 fields, 170h/month saved
+- [Programmatic SEO](https://santifer.io/programmatic-seo) — 4,730 pages from Airtable as headless CMS, 2M+ impressions
+- [n8n for PMs](https://santifer.io/n8n-for-pms) — Automation cheat sheet for product managers
 
 ## 🛠 Tech Stack
 
@@ -30,9 +41,11 @@ Built **"Jacobo"**, an omnichannel AI agent achieving **~90% self-service rate**
 
 ## 📜 Certifications
 
-- **Anthropic** → Introduction to MCP, Claude Code in Action
-- **Airtable** → AI App Builder, Builder, Admin
-- **Make** → Advanced Certification
+**Anthropic** → Introduction to MCP, Claude Code in Action, Advanced MCP Topics, Building with the Claude API, AI Fluency: Framework & Foundations, Teaching AI Fluency, AI Fluency for Educators, AI Fluency for Students
+
+**Airtable** → AI App Builder, Builder Certification, Admin Certification
+
+**Make Academy** → Make Advanced
 
 ## 📫 Let's Connect
 
