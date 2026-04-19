@@ -1,32 +1,34 @@
 # Hey, I'm Santiago 👋
 
-**AI Product Manager · Solutions Architect · Forward Deployed Engineer**
+**Applied AI Operator · Head of Applied AI · Creator of [career-ops](https://github.com/santifer/career-ops) (36.2K+ ⭐)**
 
-Ex-founder with 16+ years building products. After scaling and selling my business (exit 2025), I now focus on roles where impact scales: turning ambiguous business goals into production-ready AI solutions.
+> Companies use AI to filter candidates. I just gave candidates AI to choose companies.
+
+Applied AI Operator with 16+ years shipping to production. After scaling and selling my phone repair business (going-concern sale, 2025) with 90% AI self-service, I now ship AI systems at scale for B2B SaaS.
 
 [About me](https://santifer.io/about) · [Wikidata](https://www.wikidata.org/wiki/Q138710224)
 
-## 🚀 What I Do
+## 🚀 What I Ship
 
-- **AI Product Discovery** → PRDs, roadmaps, and prioritization for LLM-powered products
-- **Solution Architecture** → System design for no-code/low-code + AI integrations
-- **Forward Deployed Engineering** → Stakeholder workshops, rapid prototyping, production delivery
+- **Agentic systems in production** — multi-agent orchestration, tool calling, HITL handoff, observability
+- **AI-native SaaS transformation** — taking B2B platforms from point-solutions to AI-native workflows
+- **LLMOps at scale** — evals, agentic RAG, prompt injection defense, cost/latency budgets
+- **Production infrastructure** — not demos, not POCs — systems with uptime, customers, and economic outcomes
 
-## 🏆 Key Achievement
+## 🏆 Highlighted Work
 
-Built **"Jacobo"**, an omnichannel AI agent achieving **~90% self-service rate**:
-- Voice (ElevenLabs) + WhatsApp (n8n/WATI) + Aircall PBX
-- Sub-agent orchestration via tool calling
-- HITL handoff with full context
+**[career-ops](https://github.com/santifer/career-ops) (36.2K+ ⭐, 7.1K+ forks)** — multi-agent AI job search system built with Claude Code. 631 evaluations, 12 modes, HITL design. Featured in WIRED, Business Insider, and referenced by Garry Tan. 1.3K+ Discord community.
+
+**Jacobo** — omnichannel AI agent achieving **~90% customer self-service** (Voice via ElevenLabs + WhatsApp via n8n/WATI + Aircall PBX), sub-agent orchestration via tool calling, HITL handoff with full context.
 
 ## 📝 Published Case Studies
 
-- [The Self-Healing Chatbot](https://santifer.io/self-healing-chatbot) — LLMOps in production: 71 evals, 6-layer defense, agentic observability, voice mode
-- [AI Agent Jacobo](https://santifer.io/ai-agent-jacobo) — Omnichannel multi-agent AI achieving ~90% self-service
-- [Career-Ops](https://santifer.io/career-ops-system) — Multi-agent job search system: 631 evaluations, 354 PDFs, HITL design
-- [Business OS](https://santifer.io/business-os-for-airtable) — Custom ERP with 12 Airtable bases, 2100 fields, 170h/month saved
+- [Self-Healing Chatbot](https://santifer.io/self-healing-chatbot) — LLMOps in production: 71 evals, 6-layer jailbreak defense, agentic observability, voice mode
+- [career-ops](https://santifer.io/career-ops-system) — multi-agent job search: 631 evaluations, 354 PDFs, HITL design
+- [AI Agent Jacobo](https://santifer.io/ai-agent-jacobo) — omnichannel AI achieving ~90% self-service
+- [Business OS](https://santifer.io/business-os-for-airtable) — custom ERP: 12 Airtable bases, 2100 fields, 170h/month saved
 - [Programmatic SEO](https://santifer.io/programmatic-seo) — 4,730 pages from Airtable as headless CMS, 2M+ impressions
-- [n8n for PMs](https://santifer.io/n8n-for-pms) — Automation cheat sheet for product managers
+- [n8n for PMs](https://santifer.io/n8n-for-pms) — automation cheat sheet for product managers
 
 ## 🛠 Tech Stack
 
@@ -55,4 +57,4 @@ Built **"Jacobo"**, an omnichannel AI agent achieving **~90% self-service rate**
 
 ---
 
-💼 **Open to remote roles in EU/USA** — AI PM, Solutions Architect, Forward Deployed Engineer
+💼 **Currently:** Head of Applied AI @ Zinkee · Building career-ops in the open
