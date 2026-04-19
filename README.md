@@ -19,7 +19,7 @@ Applied AI Operator with 16+ years shipping to production. After scaling and sel
 
 **[career-ops](https://github.com/santifer/career-ops) (36.2K+ ⭐, 7.1K+ forks)** — multi-agent AI job search system built with Claude Code. 631 evaluations, 12 modes, HITL design. Featured in WIRED, Business Insider, and referenced by Garry Tan. 1.3K+ Discord community.
 
-**Jacobo** — omnichannel AI agent achieving **~90% customer self-service** (Voice via ElevenLabs + WhatsApp via n8n/WATI + Aircall PBX), sub-agent orchestration via tool calling, HITL handoff with full context.
+**[Jacobo](https://github.com/santifer/jacobo-workflows)** — omnichannel AI agent achieving **~90% customer self-service** (Voice via ElevenLabs + WhatsApp via n8n/WATI + Aircall PBX), sub-agent orchestration via tool calling, HITL handoff with full context.
 
 ## 📝 Published Case Studies
 
