@@ -1,6 +1,6 @@
 # Hey, I'm Santiago 👋
 
-**Applied AI Operator · Head of Applied AI · Creator of [career-ops](https://github.com/santifer/career-ops) (36.2K+ ⭐)**
+**Applied AI Operator · Head of Applied AI · Creator of [career-ops](https://github.com/santifer/career-ops) (40.1K+ ⭐)**
 
 > Companies use AI to filter candidates. I just gave candidates AI to choose companies.
 
