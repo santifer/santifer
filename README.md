@@ -1,6 +1,6 @@
 # Hey, I'm Santiago 👋
 
-**Applied AI Operator · Head of Applied AI · Creator of [career-ops](https://github.com/santifer/career-ops) (40.1K+ ⭐)**
+**Applied AI Operator · Head of Applied AI · Creator of [career-ops](https://github.com/santifer/career-ops) (51.1K+ ⭐)**
 
 > Companies use AI to filter candidates. I just gave candidates AI to choose companies.
 
@@ -17,7 +17,7 @@ Applied AI Operator with 16+ years shipping to production. After scaling and sel
 
 ## 🏆 Highlighted Work
 
-**[career-ops](https://github.com/santifer/career-ops)** — multi-agent AI job search system built with Claude Code. 631 evaluations, 12 modes, HITL design. 2.6K+ Reddit upvotes, 1.3K+ Discord community.
+**[career-ops](https://github.com/santifer/career-ops)** — multi-agent AI job search system built with Claude Code. 631 evaluations, 12 modes, HITL design. 2.6K+ Reddit upvotes, 3.6K+ Discord community.
 
 **[Jacobo](https://github.com/santifer/jacobo-workflows)** — omnichannel AI agent achieving **~90% customer self-service** (Voice via ElevenLabs + WhatsApp via n8n/WATI + Aircall PBX), sub-agent orchestration via tool calling, HITL handoff with full context.
 
