@@ -6,11 +6,13 @@
 
 The hiring machine is stacked against the person applying. I'm an ex-founder who got caught on the wrong side of it after 16 years and a business sale, so I built the tool I wished I had, used it to evaluate 740+ offers and land a Head of Applied AI role, and open-sourced it, free for candidates, forever. I ship in the open, most days. Follow along and watch it grow.
 
-**Featured in**
-&nbsp;
-<a href="https://wired.com.gr/article/to-ai-ergaleio-pou-fernei-epanastasi-ston-tropo-pou-psachnoume-douleia/"><picture><source media="(prefers-color-scheme: dark)" srcset="press/wired-dark.svg"><img src="press/wired.svg" alt="WIRED" height="26"></picture></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.businessinsider.com/how-i-built-tool-filter-job-listings-landed-head-ai-2026-4"><picture><source media="(prefers-color-scheme: dark)" srcset="press/business-insider-dark.svg"><img src="press/business-insider.svg" alt="Business Insider" height="26"></picture></a>
+<p align="center"><sub>FEATURED IN</sub></p>
+
+<p align="center">
+  <a href="https://wired.com.gr/article/to-ai-ergaleio-pou-fernei-epanastasi-ston-tropo-pou-psachnoume-douleia/"><picture><source media="(prefers-color-scheme: dark)" srcset="press/wired-dark.svg"><img src="press/wired.svg" alt="WIRED" height="32"></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.businessinsider.com/how-i-built-tool-filter-job-listings-landed-head-ai-2026-4"><picture><source media="(prefers-color-scheme: dark)" srcset="press/business-insider-dark.svg"><img src="press/business-insider.svg" alt="Business Insider" height="32"></picture></a>
+</p>
 
 ## career-ops, live
 
