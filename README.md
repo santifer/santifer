@@ -26,8 +26,10 @@ So I built the tool I wished I had.
 It evaluated 740+ offers and landed me a Head of Applied AI role.<br>
 Then I open-sourced it. It took on a life of its own.
 
-Now we're building it together, so anyone can land a better job with AI.<br>
-**Follow along. We're just getting started.**
+Now we're building it together, so anyone can land a better job with AI.
+
+Follow along.<br>
+**We're just getting started.**
 
 ## 🛠 Building in the open, right now
 
