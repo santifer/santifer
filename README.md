@@ -18,15 +18,16 @@
 <sub>career-ops climbing the worldwide GitHub ranking, live. Chart by [warpchart](https://github.com/santifer/warpchart), which I also built.</sub>
 
 Sold the business I'd built for 16 years.<br>
-**Then I bet everything on AI.**
+**Then I bet everything on AI. No safety net, just faith over fear.**
 
-Job-hunting, I got caught on the wrong side of the hiring machine.<br>
+The hiring machine caught me on the wrong side.<br>
 So I built the tool I wished I had.
 
-It evaluated 740+ offers, and I landed a Head of Applied AI role.<br>
-Then I open-sourced the whole thing.
+It evaluated 740+ offers and landed me a Head of Applied AI role.<br>
+Then I open-sourced it. It took on a life of its own.
 
-**Follow along and watch it climb.**
+Now we're building it together, so anyone can land a better job with AI.<br>
+**Follow along. We're just getting started.**
 
 ## 🛠 Building in the open, right now
 
