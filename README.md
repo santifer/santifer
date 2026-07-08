@@ -56,4 +56,4 @@ Open-source AI job search that scans portals, scores listings A-F, tailors your 
 
 ---
 
-**Free for candidates. Always.** · Head of Applied AI @ Zinkee · [About me](https://santifer.io/about) · [Wikidata](https://www.wikidata.org/wiki/Q138710224)
+Head of Applied AI @ Zinkee · [About me](https://santifer.io/about) · [Wikidata](https://www.wikidata.org/wiki/Q138710224)
