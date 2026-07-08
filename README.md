@@ -2,7 +2,9 @@
 
 **[career-ops](https://github.com/santifer/career-ops) · open-source AI job search · 59K ★ and climbing**
 
-> Companies use AI to filter candidates. I just gave candidates AI to *choose* companies. **Free for candidates, forever.**
+> Companies use AI to filter candidates. I just gave candidates AI to *choose* companies.
+
+**Free for candidates. Forever.**
 
 <p align="center"><sub>FEATURED IN</sub></p>
 
