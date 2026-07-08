@@ -13,6 +13,10 @@
   <a href="https://www.businessinsider.com/how-i-built-tool-filter-job-listings-landed-head-ai-2026-4"><picture><source media="(prefers-color-scheme: dark)" srcset="press/business-insider-dark.svg"><img src="press/business-insider.svg" alt="Business Insider" height="30"></picture></a>
 </p>
 
+<p align="center">
+  <a href="https://warpchart.dev/r/santifer/career-ops"><picture><source media="(prefers-color-scheme: dark)" srcset="https://warpchart.dev/api/badge?repo=santifer/career-ops&theme=dark"><img alt="career-ops world rank on GitHub, live" src="https://warpchart.dev/api/badge?repo=santifer/career-ops&theme=light" height="26"></picture></a>
+</p>
+
 <a href="https://warpchart.dev/hq"><picture><source media="(prefers-color-scheme: dark)" srcset="https://warpchart.dev/api/chart?theme=dark&v=3"><img alt="Live star telemetry of santifer/career-ops climbing the worldwide GitHub ranking" src="https://warpchart.dev/api/chart?theme=light&v=3"></picture></a>
 
 <sub>career-ops climbing the worldwide GitHub ranking, live. Chart by [warpchart](https://github.com/santifer/warpchart), which I also built.</sub>
