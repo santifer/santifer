@@ -1,24 +1,22 @@
-# Santiago Fernández de Valderrama
+# Applied AI Operator, building in the open
 
-**Applied AI Operator · Head of Applied AI · building [career-ops](https://github.com/santifer/career-ops) in the open (59K+ ⭐)**
+**[career-ops](https://github.com/santifer/career-ops) · open-source AI job search · 59K ★ and climbing**
 
-> Companies use AI to filter candidates. I just gave candidates AI to *choose* companies.
-
-The hiring machine is stacked against the person applying. I'm an ex-founder who got caught on the wrong side of it after 16 years and a business sale, so I built the tool I wished I had, used it to evaluate 740+ offers and land a Head of Applied AI role, and open-sourced it, free for candidates, forever. I ship in the open, most days. Follow along and watch it grow.
+> Companies use AI to filter candidates. I just gave candidates AI to *choose* companies. **Free for candidates, forever.**
 
 <p align="center"><sub>FEATURED IN</sub></p>
 
 <p align="center">
-  <a href="https://wired.com.gr/article/to-ai-ergaleio-pou-fernei-epanastasi-ston-tropo-pou-psachnoume-douleia/"><picture><source media="(prefers-color-scheme: dark)" srcset="press/wired-dark.svg"><img src="press/wired.svg" alt="WIRED" height="32"></picture></a>
+  <a href="https://wired.com.gr/article/to-ai-ergaleio-pou-fernei-epanastasi-ston-tropo-pou-psachnoume-douleia/"><picture><source media="(prefers-color-scheme: dark)" srcset="press/wired-dark.svg"><img src="press/wired.svg" alt="WIRED" height="30"></picture></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.businessinsider.com/how-i-built-tool-filter-job-listings-landed-head-ai-2026-4"><picture><source media="(prefers-color-scheme: dark)" srcset="press/business-insider-dark.svg"><img src="press/business-insider.svg" alt="Business Insider" height="32"></picture></a>
+  <a href="https://www.businessinsider.com/how-i-built-tool-filter-job-listings-landed-head-ai-2026-4"><picture><source media="(prefers-color-scheme: dark)" srcset="press/business-insider-dark.svg"><img src="press/business-insider.svg" alt="Business Insider" height="30"></picture></a>
 </p>
-
-## career-ops, live
 
 <a href="https://warpchart.dev/hq"><picture><source media="(prefers-color-scheme: dark)" srcset="https://warpchart.dev/api/chart?theme=dark&v=3"><img alt="Live star telemetry of santifer/career-ops climbing the worldwide GitHub ranking" src="https://warpchart.dev/api/chart?theme=light&v=3"></picture></a>
 
-<sub>Its real-time climb through the worldwide GitHub ranking. Chart rendered by [warpchart](https://github.com/santifer/warpchart), which I also built.</sub>
+<sub>career-ops climbing the worldwide GitHub ranking, live. Chart by [warpchart](https://github.com/santifer/warpchart), which I also built.</sub>
+
+Ex-founder. I sold my business, got caught on the wrong side of the hiring machine, and built the tool I wished I had. Used it to evaluate 740+ offers and land a Head of Applied AI role, then open-sourced the whole thing. I ship in the open most days: releases, experiments, and field notes from production. **Follow along and watch it climb.**
 
 ## 🛠 Building in the open, right now
 
