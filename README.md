@@ -17,14 +17,14 @@
 
 <sub>career-ops climbing the worldwide GitHub ranking, live. Chart by [warpchart](https://github.com/santifer/warpchart), which I also built.</sub>
 
-Ex-founder. Sold my business after 16 years.<br>
-Then I got caught on the wrong side of the hiring machine.
+Sold the business I'd built for 16 years.<br>
+**Then I bet everything on AI.**
 
-So I built the tool I wished I had.<br>
-It evaluated 740+ offers, and I landed a Head of Applied AI role.
+Job-hunting, I got caught on the wrong side of the hiring machine.<br>
+So I built the tool I wished I had.
 
-Then I open-sourced the whole thing.<br>
-Now I ship in the open most days: releases, experiments, notes from production.
+It evaluated 740+ offers, and I landed a Head of Applied AI role.<br>
+Then I open-sourced the whole thing.
 
 **Follow along and watch it climb.**
 
