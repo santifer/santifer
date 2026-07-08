@@ -30,24 +30,6 @@ Applied AI Operator with 16+ years shipping to production. After scaling and sel
 - [Programmatic SEO](https://santifer.io/programmatic-seo) — 4,730 pages from Airtable as headless CMS, 2M+ impressions
 - [n8n for PMs](https://santifer.io/n8n-for-pms) — automation cheat sheet for product managers
 
-## 🛠 Tech Stack
-
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
-
-## 📜 Certifications
-
-**Anthropic** → Introduction to MCP, Claude Code in Action, Advanced MCP Topics, Building with the Claude API, AI Fluency: Framework & Foundations, Teaching AI Fluency, AI Fluency for Educators, AI Fluency for Students
-
-**Airtable** → AI App Builder, Builder Certification, Admin Certification
-
-**Make Academy** → Make Advanced
 
 ## 📫 Let's Connect
 
