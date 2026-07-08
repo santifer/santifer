@@ -1,37 +1,40 @@
-# Hey, I'm Santiago 👋
+# Santiago Fernández de Valderrama
 
-**Applied AI Operator · Head of Applied AI · Creator of [career-ops](https://github.com/santifer/career-ops) (59K+ ⭐)**
+**Applied AI Operator · Head of Applied AI · building [career-ops](https://github.com/santifer/career-ops) in the open (59K+ ⭐)**
 
-> Companies use AI to filter candidates. I just gave candidates AI to choose companies.
+> Companies use AI to filter candidates. I just gave candidates AI to *choose* companies.
 
-Applied AI Operator with 16+ years shipping to production. After scaling and selling my phone repair business (going-concern sale, 2025) with 90% AI self-service, I now ship AI systems at scale for B2B SaaS.
+The hiring machine is stacked against the person applying. I'm an ex-founder who got caught on the wrong side of it after 16 years and a business sale, so I built the tool I wished I had, used it to evaluate 740+ offers and land a Head of Applied AI role, and open-sourced it, free for candidates, forever. I ship in the open, most days. Follow along and watch it grow.
 
-[About me](https://santifer.io/about) · [Wikidata](https://www.wikidata.org/wiki/Q138710224)
+**Featured in**
+&nbsp;
+<a href="https://wired.com.gr/article/to-ai-ergaleio-pou-fernei-epanastasi-ston-tropo-pou-psachnoume-douleia/"><picture><source media="(prefers-color-scheme: dark)" srcset="press/wired-dark.svg"><img src="press/wired.svg" alt="WIRED" height="26"></picture></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.businessinsider.com/how-i-built-tool-filter-job-listings-landed-head-ai-2026-4"><picture><source media="(prefers-color-scheme: dark)" srcset="press/business-insider-dark.svg"><img src="press/business-insider.svg" alt="Business Insider" height="26"></picture></a>
 
-## 🚀 What I Ship
+## career-ops, live
 
-- **Agentic systems in production** — multi-agent orchestration, tool calling, HITL handoff, observability
-- **AI-native SaaS transformation** — taking B2B platforms from point-solutions to AI-native workflows
-- **LLMOps at scale** — evals, agentic RAG, prompt injection defense, cost/latency budgets
-- **Production infrastructure** — not demos, not POCs — systems with uptime, customers, and economic outcomes
+<a href="https://warpchart.dev/hq"><picture><source media="(prefers-color-scheme: dark)" srcset="https://warpchart.dev/api/chart?theme=dark&v=3"><img alt="Live star telemetry of santifer/career-ops climbing the worldwide GitHub ranking" src="https://warpchart.dev/api/chart?theme=light&v=3"></picture></a>
 
-## 🏆 Highlighted Work
+<sub>Its real-time climb through the worldwide GitHub ranking. Chart rendered by [warpchart](https://github.com/santifer/warpchart), which I also built.</sub>
 
-**[career-ops](https://github.com/santifer/career-ops)** — multi-agent AI job search system built with Claude Code. 631 evaluations, 12 modes, HITL design. 2.6K+ Reddit upvotes, 3.6K+ Discord community.
+## 🛠 Building in the open, right now
 
-**[Jacobo](https://github.com/santifer/jacobo-workflows)** — omnichannel AI agent achieving **~90% customer self-service** (Voice via ElevenLabs + WhatsApp via n8n/WATI + Aircall PBX), sub-agent orchestration via tool calling, HITL handoff with full context.
+**[career-ops](https://github.com/santifer/career-ops)** &nbsp;[![latest release](https://img.shields.io/npm/v/@santifer/career-ops?label=latest&color=2ea44f&labelColor=2b3137)](https://github.com/santifer/career-ops/releases/latest)
+Open-source AI job search that scans portals, scores listings A-F, tailors your CV and preps you for the offer. Runs locally in your AI coding CLI. 4K-dev Discord, shipping most days.
 
-## 📝 Published Case Studies
+**[warpchart](https://github.com/santifer/warpchart)** — live growth telemetry for any GitHub repo: world rank, star velocity, and who's about to overtake whom.
 
-- [Self-Healing Chatbot](https://santifer.io/self-healing-chatbot) — LLMOps in production: 71 evals, 6-layer jailbreak defense, agentic observability, voice mode
-- [career-ops](https://santifer.io/career-ops-system) — multi-agent job search: 631 evaluations, 354 PDFs, HITL design
-- [AI Agent Jacobo](https://santifer.io/ai-agent-jacobo) — omnichannel AI achieving ~90% self-service
-- [Business OS](https://santifer.io/business-os-for-airtable) — custom ERP: 12 Airtable bases, 2100 fields, 170h/month saved
-- [Programmatic SEO](https://santifer.io/programmatic-seo) — 4,730 pages from Airtable as headless CMS, 2M+ impressions
-- [n8n for PMs](https://santifer.io/n8n-for-pms) — automation cheat sheet for product managers
+## 📝 Notes from production
 
+<!-- BLOG-POST-LIST:START -->
+- Agentic systems in production: orchestration, tool calling, HITL handoff, observability
+- LLMOps at scale: evals, agentic RAG, prompt-injection defense, cost/latency budgets
+<!-- BLOG-POST-LIST:END -->
 
-## 📫 Let's Connect
+<sub>Longer case studies at [santifer.io](https://santifer.io): [career-ops](https://santifer.io/career-ops-system) · [self-healing chatbot](https://santifer.io/self-healing-chatbot) · [omnichannel AI agent, ~90% self-service](https://santifer.io/ai-agent-jacobo) · [programmatic SEO, 2M+ impressions](https://santifer.io/programmatic-seo)</sub>
+
+## 📫 Let's connect
 
 [![Website](https://img.shields.io/badge/santifer.io-000?style=for-the-badge&logo=safari&logoColor=white)](https://santifer.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santifer)
@@ -39,4 +42,4 @@ Applied AI Operator with 16+ years shipping to production. After scaling and sel
 
 ---
 
-💼 **Currently:** Head of Applied AI @ Zinkee · Building career-ops in the open
+**Free for candidates. Always.** · Head of Applied AI @ Zinkee · [About me](https://santifer.io/about) · [Wikidata](https://www.wikidata.org/wiki/Q138710224)
