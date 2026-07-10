@@ -19,6 +19,6 @@ jobs:
         with:
           feed_list: "https://santifer.io/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"
           commit_message: "Update blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
