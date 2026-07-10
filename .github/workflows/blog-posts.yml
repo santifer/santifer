@@ -1,0 +1,22 @@
+name: Update blog posts
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull latest posts from santifer.io
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://santifer.io/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url)$newline"
+          commit_message: "Update blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
