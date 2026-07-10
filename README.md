@@ -40,9 +40,11 @@ Open-source AI job search that scans portals, scores listings A-F, tailors your 
 
 ## 📝 Notes from production
 
-<!-- BLOG-POST-LIST:START -->
-- Agentic systems in production: orchestration, tool calling, HITL handoff, observability
-- LLMOps at scale: evals, agentic RAG, prompt-injection defense, cost/latency budgets
+<!-- BLOG-POST-LIST:START -->- [Career-Ops: How I Built My Own AI Job Search Tool](https://santifer.io/career-ops-system)
+- [The Self-Healing Chatbot: From Widget to Production LLMOps](https://santifer.io/self-healing-chatbot)
+- [Programmatic SEO: 4,000+ Pages from an ERP | santifer.io](https://santifer.io/programmatic-seo)
+- [Custom Business OS: Airtable + n8n — 170h/Mo](https://santifer.io/business-os-for-airtable)
+- [Jacobo: Multi-Agent AI — 90% Self-Service](https://santifer.io/ai-agent-jacobo)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Longer case studies at [santifer.io](https://santifer.io): [career-ops](https://santifer.io/career-ops-system) · [self-healing chatbot](https://santifer.io/self-healing-chatbot) · [omnichannel AI agent, ~90% self-service](https://santifer.io/ai-agent-jacobo) · [programmatic SEO, 2M+ impressions](https://santifer.io/programmatic-seo)</sub>
