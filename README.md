@@ -41,7 +41,7 @@ Open-source AI job search that scans portals, scores listings A-F, tailors your 
 ## 📝 Notes from production
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Maintain a 59,000-Star Repo with an AI Agent Fleet](https://santifer.io/ai-agent-fleet)
+- [Agentic Maintenance: How I Run a 59,000-Star Repo with AI Agents](https://santifer.io/ai-agent-fleet)
 - [Career-Ops: How I Built My Own AI Job Search Tool](https://santifer.io/career-ops-system)
 - [The Self-Healing Chatbot: From Widget to Production LLMOps](https://santifer.io/self-healing-chatbot)
 - [Programmatic SEO: 4,000+ Pages from an ERP](https://santifer.io/programmatic-seo)
