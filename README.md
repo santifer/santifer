@@ -5,6 +5,15 @@
 > Companies use AI to filter candidates. I just gave candidates AI to *choose* companies.<br>
 > **Free for candidates. Forever.**
 
+<a href="https://career-ops.org/manifesto/s/santifer?via=badge--santifer&from=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://career-ops.org/badge/santifer.svg?theme=paper&h=56&v=2">
+    <img alt="CareerOps Manifesto — Signed #1"
+         src="https://career-ops.org/badge/santifer.svg?h=56&v=2">
+  </picture>
+</a>
+
 <p align="center"><sub>FEATURED IN</sub></p>
 
 <p align="center">
