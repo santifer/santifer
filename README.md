@@ -1,6 +1,6 @@
 # Multi-Agent Systems Engineer, building in the open
 
-**[career-ops](https://github.com/santifer/career-ops) · open-source AI job search · 60K ★ and climbing**
+**[career-ops](https://github.com/santifer/career-ops) · open-source AI job search · 68K ★ and climbing**
 
 > Companies use AI to filter candidates. I just gave candidates AI to *choose* companies.<br>
 > **Free for candidates. Forever.**
@@ -64,6 +64,7 @@ Open-source AI job search that scans portals, scores listings A-F, tailors your 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santifer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santifer)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@santifer.io)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4E93?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/santifer)
 
 ---
 
