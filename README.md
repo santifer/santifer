@@ -1,6 +1,6 @@
 # Multi-Agent Systems Engineer, building in the open
 
-**[career-ops](https://github.com/santifer/career-ops) · open-source AI job search · 68K ★ and climbing**
+**[career-ops](https://github.com/santifer/career-ops) · open-source AI job search · 69K ★ and climbing**
 
 > Companies use AI to filter candidates. I just gave candidates AI to *choose* companies.<br>
 > **Free for candidates. Forever.**
