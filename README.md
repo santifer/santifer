@@ -1,6 +1,6 @@
 # Multi-Agent Systems Engineer, building in the open
 
-**[career-ops](https://github.com/santifer/career-ops) · open-source AI job search · 72K ★ and climbing**
+**[career-ops](https://github.com/career-ops-hq/career-ops) · open-source AI job search · 72K ★ and climbing**
 
 > Companies use AI to filter candidates. I just gave candidates AI to *choose* companies.<br>
 > **Free for candidates. Forever.**
@@ -42,7 +42,7 @@ Follow along.<br>
 
 ## 🛠 Building in the open, right now
 
-**[career-ops](https://github.com/santifer/career-ops)** &nbsp;[![latest release](https://img.shields.io/npm/v/@santifer/career-ops?label=latest&color=2ea44f&labelColor=2b3137)](https://github.com/santifer/career-ops/releases/latest)
+**[career-ops](https://github.com/career-ops-hq/career-ops)** &nbsp;[![latest release](https://img.shields.io/npm/v/@santifer/career-ops?label=latest&color=2ea44f&labelColor=2b3137)](https://github.com/career-ops-hq/career-ops/releases/latest)
 Open-source AI job search that scans portals, scores listings A-F, tailors your CV and preps you for the offer. Runs locally in your AI coding CLI. 4K-dev Discord, shipping most days.
 
 **[warpchart](https://github.com/santifer/warpchart)** — live growth telemetry for any GitHub repo: world rank, star velocity, and who's about to overtake whom.
@@ -68,4 +68,4 @@ Open-source AI job search that scans portals, scores listings A-F, tailors your 
 
 ---
 
-Head of Applied AI @ Zinkee · [About me](https://santifer.io/about) · [Wikidata](https://www.wikidata.org/wiki/Q138710224)
+[About me](https://santifer.io/about) · [Wikidata](https://www.wikidata.org/wiki/Q138710224)
