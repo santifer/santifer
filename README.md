@@ -1,6 +1,6 @@
-# Multi-Agent Systems Engineer, building in the open
+# [Santiago Fernández de Valderrama Aparicio](https://santifer.io/about)
 
-**[career-ops](https://github.com/career-ops-hq/career-ops) · open-source AI job search · 73K ★ and climbing**
+**Multi-Agent Systems Engineer, building in the open** · creator of [career-ops](https://github.com/career-ops-hq/career-ops), open-source AI job search
 
 > Companies use AI to filter candidates. I just gave candidates AI to *choose* companies.<br>
 > **Free for candidates. Forever.**
@@ -22,7 +22,7 @@
   <a href="https://www.businessinsider.com/how-i-built-tool-filter-job-listings-landed-head-ai-2026-4"><picture><source media="(prefers-color-scheme: dark)" srcset="press/business-insider-dark.svg"><img src="press/business-insider.svg" alt="Business Insider" height="30"></picture></a>
 </p>
 
-<a href="https://warpchart.dev/hq"><picture><source media="(prefers-color-scheme: dark)" srcset="https://warpchart.dev/api/chart?theme=dark&rank=1&v=4"><img alt="Live star telemetry of santifer/career-ops climbing the worldwide GitHub ranking, currently #348 worldwide" src="https://warpchart.dev/api/chart?theme=light&rank=1&v=4"></picture></a>
+<a href="https://warpchart.dev/hq"><picture><source media="(prefers-color-scheme: dark)" srcset="https://warpchart.dev/api/chart?theme=dark&rank=1&v=4"><img alt="Live star telemetry of career-ops climbing the worldwide GitHub ranking" src="https://warpchart.dev/api/chart?theme=light&rank=1&v=4"></picture></a>
 
 <sub>career-ops climbing the worldwide GitHub ranking, live. Chart by [warpchart](https://github.com/santifer/warpchart), which I also built.</sub>
 
