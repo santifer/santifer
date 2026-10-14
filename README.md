@@ -9,7 +9,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://career-ops.org/badge/santifer.svg?theme=paper&h=56&v=2">
-    <img alt="CareerOps Manifesto — Signed #1"
+    <img alt="CareerOps Manifesto · Signed #1"
          src="https://career-ops.org/badge/santifer.svg?h=56&v=2">
   </picture>
 </a>
@@ -43,9 +43,9 @@ Follow along.<br>
 ## 🛠 Building in the open, right now
 
 **[career-ops](https://github.com/career-ops-hq/career-ops)** &nbsp;[![latest release](https://img.shields.io/npm/v/@santifer/career-ops?label=latest&color=2ea44f&labelColor=2b3137)](https://github.com/career-ops-hq/career-ops/releases/latest)
-Open-source AI job search that scans portals, scores listings A-F, tailors your CV and preps you for the offer. Runs locally in your AI coding CLI. 4K-dev Discord, shipping most days.
+Open-source AI job search that scans portals, scores each listing 1-5, tailors your CV and preps you for the offer. Runs locally in your AI coding CLI. Active Discord, shipping most days.
 
-**[warpchart](https://github.com/santifer/warpchart)** — live growth telemetry for any GitHub repo: world rank, star velocity, and who's about to overtake whom.
+**[warpchart](https://github.com/santifer/warpchart)** · live growth telemetry for any GitHub repo: world rank, star velocity, and who's about to overtake whom.
 
 ## 📝 Notes from production
 
